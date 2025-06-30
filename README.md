@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
  <header>
-        <img src="logo.png" alt="RaiseTheCraic" class="logo">
+        <img src="logo.jpg" alt="RaiseTheCraic" class="logo">
     </header>
   
   <meta charset="UTF-8">
