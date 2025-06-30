@@ -1,13 +1,14 @@
-from weasyprint import HTML
 
-# Load the HTML content from the previous response
-html_content = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Whiskey & Bluffs – Poker in Ireland</title>
+  <title>Raise the Craic – Poker in Ireland</title>
   <style>
+<div style="text-align:center;">
+    <img src="logo.png" alt="Whiskey & Bluffs Logo" style="width:150px;">
+  </div>
+    
     body {
       font-family: 'Georgia', serif;
       background-color: #1e1a16;
@@ -44,20 +45,20 @@ html_content = """
   </style>
 </head>
 <body>
-  <h1>Whiskey & Bluffs: Poker in Ireland</h1>
+  <h1>Raise the Craic: Poker in Ireland</h1>
 
   <div class="section highlight">
     <p><strong>A high-stakes, invite-only poker show</strong> filmed in Ireland, where comedians, thinkers, fighters, and professionals sip whiskey, swap stories, and bluff under candlelight.</p>
-    <p><strong>Location:</strong> A private whiskey lounge, Dublin or Galway</p>
+    <p><strong>Location:</strong> Online / Tour </p>
     <p><strong>Tone:</strong> Part <em>Rounders</em>, part <em>JRE</em>, part <em>Kill Tony</em></p>
-    <p><strong>Audience:</strong> Poker fans, whiskey lovers, comedy junkies, Rogan Nation</p>
+    <p><strong>Audience:</strong> Poker fans, whiskey lovers, comedy junkies</p>
   </div>
 
   <div class="section">
     <h2>2. Show Format</h2>
     <table>
       <tr><th>Segment</th><th>Description</th></tr>
-      <tr><td>🎙️ Cold Open</td><td>Joe introduces guests, banters over a glass of whiskey</td></tr>
+      <tr><td>🎙️ Cold Open</td><td> introduces guests, banters over a glass of whiskey</td></tr>
       <tr><td>♠️ Poker Session</td><td>4–6-handed game, casual stakes, with live table talk</td></tr>
       <tr><td>🧠 “Big Hand Recap”</td><td>Mid-show breakdown of key hands with personality commentary</td></tr>
       <tr><td>🍻 “Glass Refill”</td><td>Intermission where players share life/philosophy stories</td></tr>
@@ -78,15 +79,15 @@ html_content = """
 
   <div class="section">
     <h2>4. Monetization Model</h2>
-    <table>
+    <table> 
       <tr><th>Channel</th><th>Est. Annual Revenue</th></tr>
-      <tr><td>YouTube Ads</td><td>$150K–$300K</td></tr>
-      <tr><td>Whiskey Sponsors</td><td>$100K–$500K</td></tr>
-      <tr><td>Premium Merch</td><td>$30K–$100K</td></tr>
-      <tr><td>Live Events</td><td>$50K–$200K</td></tr>
-      <tr><td>Licensing (Spotify?)</td><td>$100K+</td></tr>
+      <tr><td>YouTube Ads</td><td>€150K–€300K</td></tr>
+      <tr><td>Whiskey Sponsors</td><td>€100K–€500K</td></tr>
+      <tr><td>Premium Merch</td><td>€30K–€100K</td></tr>
+      <tr><td>Live Events</td><td>€50K–€200K</td></tr>
+      <tr><td>Licensing (Spotify?)</td><td>€100K+</td></tr>
     </table>
-    <p><strong>Total Annual Potential:</strong> $400K–$1.1M+</p>
+    <p><strong>Total Annual Potential:</strong> €400K–€1.1M+</p>
   </div>
 
   <div class="section">
@@ -123,21 +124,8 @@ html_content = """
     </table>
   </div>
 
-  <div class="section">
-    <h2>8. Call to Action</h2>
-    <p>If Joe Rogan & team greenlight the concept:</p>
-    <ul>
-      <li>🎥 I can help storyboard sample intros, pilot episode script</li>
-      <li>💰 Identify whiskey partners</li>
-      <li>🧠 Build pitch for Spotify or YouTube Originals</li>
-    </ul>
-  </div>
+  
 </body>
 </html>
-"""
 
-# Convert HTML to PDF
-pdf_path = "/mnt/data/Whiskey_Bluffs_Poker_Ireland.pdf"
-HTML(string=html_content).write_pdf(pdf_path)
 
-pdf_path
