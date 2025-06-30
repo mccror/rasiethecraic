@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 
     body {
       font-family: 'Georgia', serif;
-      background-color: #1e1a16;
+   
       color: #f5f0e6;
       padding: 2rem;
       line-height: 1.6;
