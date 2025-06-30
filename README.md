@@ -98,7 +98,7 @@
     </section>
 
     <section>
-      <h1>2. Show Format</h1>
+      <h2>2. Show Format</h2>
       <table>
         <tr><th>Segment</th><th>Description</th></tr>
         <tr><td>🎙️ Cold Open</td><td>Introduces guests, banters over a glass of whiskey</td></tr>
@@ -110,7 +110,7 @@
     </section>
 
     <section>
-      <h1>3. Unique Selling Points</h1>
+      <h2>3. Unique Selling Points</h2>
       <ul>
         <li><strong>Whiskey Culture 🍀</strong> – Irish distilleries sponsor / feature unique pours</li>
         <li><strong>International Guests 🌍</strong> – EU comedians, fighters, thinkers, rogues</li>
