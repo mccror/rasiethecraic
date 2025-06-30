@@ -5,10 +5,7 @@
   <meta charset="UTF-8">
   <title>Raise the Craic – Poker in Ireland</title>
   <style>
-<div style="text-align:center;">
-    <img src="logo.png" alt="Whiskey & Bluffs Logo" style="width:150px;">
-  </div>
-    
+
     body {
       font-family: 'Georgia', serif;
       background-color: #1e1a16;
