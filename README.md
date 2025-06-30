@@ -1,6 +1,10 @@
 
 <html lang="en">
 <head>
+ <header>
+        <img src="logo.png" alt="RaiseTheCraic" class="logo">
+    </header>
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RaiseTheCraic – Poker in Ireland</title>
@@ -115,7 +119,6 @@
         <li><strong>Whiskey Culture 🍀</strong> – Irish distilleries sponsor / feature unique pours</li>
         <li><strong>International Guests 🌍</strong> – EU comedians, fighters, thinkers, rogues</li>
         <li><strong>Filmed in Ireland 🇮🇪</strong> – Pub-lounge vibe with moody lighting</li>
-        <li><strong>Joe’s Brand 🧠</strong> – Unfiltered, conversational, fringe-friendly</li>
         <li><strong>No Casino 🛑</strong> – More “gathering of minds” than gambling content</li>
       </ul>
     </section>
@@ -124,20 +127,20 @@
       <h2>4. Monetization Model</h2>
       <table>
         <tr><th>Channel</th><th>Est. Annual Revenue</th></tr>
-        <tr><td>YouTube Ads</td><td>$150K–$300K</td></tr>
-        <tr><td>Whiskey Sponsors</td><td>$100K–$500K</td></tr>
-        <tr><td>Premium Merch</td><td>$30K–$100K</td></tr>
-        <tr><td>Live Events</td><td>$50K–$200K</td></tr>
-        <tr><td>Licensing (Spotify?)</td><td>$100K+</td></tr>
+        <tr><td>YouTube Ads</td><td>€150K–€300K</td></tr>
+        <tr><td>Whiskey Sponsors</td><td>€100K–€500K</td></tr>
+        <tr><td>Premium Merch</td><td>€30K–€100K</td></tr>
+        <tr><td>Live Events</td><td>€50K–€200K</td></tr>
+        <tr><td>Licensing (Spotify?)</td><td>€100K+</td></tr>
       </table>
-      <p><strong>Total Annual Potential:</strong> $400K–$1.1M+</p>
+      <p><strong>Total Annual Potential:</strong> €400K–€1.1M+</p>
     </section>
 
     <section>
       <h2>5. Sample Titles / Episodes</h2>
       <table>
         <tr><th>Title</th><th>Featured Guest Ideas</th></tr>
-        <tr><td>“Guinness and Gutshots”</td><td>Tom Segura, Andrew Schulz</td></tr>
+        <tr><td>“Guinness and Gutshots”</td><td>Tom Segura, Andrew Schulz, KneeCap</td></tr>
         <tr><td>“Whiskey, War Stories, and Pocket Pairs”</td><td>Jocko Willink, Michael Malice</td></tr>
         <tr><td>“Brogues, Bluffs, and Banter”</td><td>Graham Linehan, Colin Quinn</td></tr>
         <tr><td>“The Irish Exit”</td><td>Blindboy Boatclub, Conor McGregor cameo?</td></tr>
@@ -161,12 +164,23 @@
         <tr><th>Phase</th><th>Timeline</th></tr>
         <tr><td>Pre-production</td><td>2 months</td></tr>
         <tr><td>Pilot episode</td><td>Month 3</td></tr>
-        <tr><td>YouTube launch</td><td>Month 4</td></tr>
+        <tr><td>RTE Player / YouTube launch</td><td>Month 4</td></tr>
         <tr><td>Sponsor rollout</td><td>Month 5+</td></tr>
         <tr><td>Live tour</td><td>Month 8+</td></tr>
       </table>
     </section>
-
+ <section>
+      <h2>9. Poker YouTube Channels & Estimated Revenue</h2>
+      <table>
+        <tr><th>Channel</th><th>Est. Annual Revenue (YouTube Ads)</th></tr>
+        <tr><td>The Lodge Card Club</td><td>€300K–€600K</td></tr>
+        <tr><td>Hustler Casino Live</td><td>€400K–€900K</td></tr>
+        <tr><td>PokerGO</td><td>€250K–$500K</td></tr>
+        <tr><td>Jonathan Little Poker</td><td>€80K–€150K</td></tr>
+        <tr><td>Lex Veldhuis</td><td>€100K–€250K</td></tr>
+      </table>
+      <p><em>Note: Revenue based on ad performance from weekly streams, subscriber count, and average viewership as of 2024–2025 estimates.</em></p>
+    </section>
    
   </div>
 
