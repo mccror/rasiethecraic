@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Whiskey & Bluffs – Poker in Ireland</title>
+  <title>RaiseTheCraic – Poker in Ireland</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Roboto&display=swap" rel="stylesheet">
   <style>
     * {
@@ -85,7 +85,7 @@
 <body>
 
   <header>
-    <h1>Whiskey & Bluffs: Poker in Ireland</h1>
+    <h1>RaiseTheCraic: Poker in Ireland</h1>
   </header>
 
   <div class="container">
@@ -97,10 +97,10 @@
     </section>
 
     <section>
-      <h2>2. Show Format</h2>
+      <h1>2. Show Format</h1>
       <table>
         <tr><th>Segment</th><th>Description</th></tr>
-        <tr><td>🎙️ Cold Open</td><td>Joe introduces guests, banters over a glass of whiskey</td></tr>
+        <tr><td>🎙️ Cold Open</td><td>Introduces guests, banters over a glass of whiskey</td></tr>
         <tr><td>♠️ Poker Session</td><td>4–6-handed game, casual stakes, with live table talk</td></tr>
         <tr><td>🧠 “Big Hand Recap”</td><td>Mid-show breakdown of key hands with personality commentary</td></tr>
         <tr><td>🍻 “Glass Refill”</td><td>Intermission where players share life/philosophy stories</td></tr>
@@ -109,7 +109,7 @@
     </section>
 
     <section>
-      <h2>3. Unique Selling Points</h2>
+      <h1>3. Unique Selling Points</h1>
       <ul>
         <li><strong>Whiskey Culture 🍀</strong> – Irish distilleries sponsor / feature unique pours</li>
         <li><strong>International Guests 🌍</strong> – EU comedians, fighters, thinkers, rogues</li>
@@ -166,19 +166,11 @@
       </table>
     </section>
 
-    <section class="cta">
-      <h2>8. Call to Action</h2>
-      <p>If Joe Rogan & team greenlight the concept:</p>
-      <ul>
-        <li>🎥 I can help storyboard sample intros, pilot episode script</li>
-        <li>💰 Identify whiskey partners</li>
-        <li>🧠 Build pitch for Spotify or YouTube Originals</li>
-      </ul>
-    </section>
+   
   </div>
 
   <footer>
-    &copy; 2025 Whiskey & Bluffs. Concept presentation.
+    &copy; 2025 RaiseTheCraic. Concept presentation.
   </footer>
 </body>
 </html>
