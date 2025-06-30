@@ -6,42 +6,7 @@
   <title>Raise the Craic – Poker in Ireland</title>
   <style>
 
-    body {
-      font-family: 'Georgia', serif;
-   
-      color: #f5f0e6;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #e0b36a;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    .highlight {
-      background-color: #33312e;
-      padding: 1rem;
-      border-left: 5px solid #e0b36a;
-    }
-    ul {
-      padding-left: 1.2rem;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1rem;
-    }
-    th, td {
-      border: 1px solid #444;
-      padding: 0.5rem;
-    }
-    th {
-      background-color: #2b261f;
-    }
-  </style>
-</head>
-<body>
+
   <h1>Raise the Craic: Poker in Ireland</h1>
 
   <div class="section highlight">
