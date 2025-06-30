@@ -1,8 +1,11 @@
+from weasyprint import HTML
+
+# Load the HTML content from the previous response
+html_content = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Whiskey & Bluffs – Poker in Ireland</title>
   <style>
     body {
@@ -129,6 +132,12 @@
       <li>🧠 Build pitch for Spotify or YouTube Originals</li>
     </ul>
   </div>
-
 </body>
 </html>
+"""
+
+# Convert HTML to PDF
+pdf_path = "/mnt/data/Whiskey_Bluffs_Poker_Ireland.pdf"
+HTML(string=html_content).write_pdf(pdf_path)
+
+pdf_path
