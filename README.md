@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -60,6 +60,7 @@
       width: 100%;
       border-collapse: collapse;
       margin-top: 1rem;
+      color: #000000;
     }
     th, td {
       border: 1px solid #3a3530;
