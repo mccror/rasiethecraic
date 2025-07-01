@@ -101,7 +101,7 @@
     </section>
 
     <section>
-      <h2>2. Show Format</h2>
+      <h2>1. Show Format</h2>
       <table>
         <tr><th>Segment</th><th>Description</th></tr>
         <tr><td>🎙️ Cold Open</td><td>Introduces guests, banters over a glass of whiskey</td></tr>
@@ -113,7 +113,7 @@
     </section>
 
     <section>
-      <h2>3. Unique Selling Points</h2>
+      <h2>2. Unique Selling Points</h2>
       <ul>
         <li><strong>Whiskey Culture 🍀</strong> – Irish distilleries sponsor / feature unique pours</li>
         <li><strong>International Guests 🌍</strong> – EU comedians, fighters, thinkers, rogues</li>
@@ -123,7 +123,7 @@
     </section>
 
     <section>
-      <h2>4. Monetization Model</h2>
+      <h2>3. Monetization Model</h2>
       <table>
         <tr><th>Channel</th><th>Est. Annual Revenue</th></tr>
         <tr><td>YouTube Ads</td><td>€150K–€300K</td></tr>
@@ -136,7 +136,7 @@
     </section>
 
     <section>
-      <h2>5. Sample Titles / Episodes</h2>
+      <h2>4. Sample Titles / Episodes</h2>
       <table>
         <tr><th>Title</th><th>Featured Guest Ideas</th></tr>
         <tr><td>“Guinness and Gutshots”</td><td>Tom Segura, Andrew Schulz, KneeCap</td></tr>
@@ -148,7 +148,7 @@
     </section>
 
     <section>
-      <h2>6. Visual Style</h2>
+      <h2>5. Visual Style</h2>
       <ul>
         <li><strong>Set Design:</strong> Brick walls, velvet chairs, wood table, whiskey cart</li>
         <li><strong>Lighting:</strong> Warm tones, soft shadows, candlelight feel</li>
@@ -158,7 +158,7 @@
     </section>
 
     <section>
-      <h2>7. Execution Plan</h2>
+      <h2>6. Execution Plan</h2>
       <table>
         <tr><th>Phase</th><th>Timeline</th></tr>
         <tr><td>Pre-production</td><td>2 months</td></tr>
@@ -169,7 +169,7 @@
       </table>
     </section>
  <section>
-      <h2>9. Poker YouTube Channels & Estimated Revenue</h2>
+      <h2>7. Poker YouTube Channels & Estimated Revenue</h2>
       <table>
         <tr><th>Channel</th><th>Est. Annual Revenue (YouTube Ads)</th></tr>
         <tr><td>The Lodge Card Club</td><td>€300K–€600K</td></tr>
